@@ -1,8 +1,7 @@
 # 🍽️ Restaurant Rating Analysis – Cognifyz Data Science Internship
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## 📌 Project Overview
 
