@@ -36,14 +36,14 @@ The project analyzes a restaurant dataset to derive insights on customer ratings
 
 ## 📊 Project Structure
 
-📁 data/
-📁 result1/ → Level 1 plots
-📁 result2/ → Level 2 plots & feature-engineered dataset
-📁 result3/ → Level 3 model evaluation and customer preference plots
+📁 data/<br>
+📁 result1/ → Level 1 plots<br>
+📁 result2/ → Level 2 plots & feature-engineered dataset<br>
+📁 result3/ → Level 3 model evaluation and customer preference plots<br><br>
 
-📁 level1/ → Data cleaning and EDA scripts
-📁 level2/ → Descriptive analysis, price analysis, feature engineering
-📁 level3/ → Predictive modeling, customer preference analysis
+📁 level1/ → Data cleaning and EDA scripts<br>
+📁 level2/ → Descriptive analysis, price analysis, feature engineering<br>
+📁 level3/ → Predictive modeling, customer preference analysis<br><br>
 
 📄 recommendations.md → Key insights and business recommendations
 📄 README.md → Project overview and documentation
@@ -106,7 +106,7 @@ This project was completed as part of the **Cognifyz Data Science Internship**, 
 
 ## 📌 How to Run
 
-1️⃣ Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/028kunal/cognifyz-data-science-project.git
 cd cognifyz-data-science-project
@@ -125,5 +125,7 @@ python task3.py
 cd ../level3
 python task1.py
 python task2.py
+```
 
-Visual outputs will be saved in data/result1/, data/result2/, data/result3/.
+##Visual outputs will be saved in data/result1/, data/result2/, data/result3/.
+
